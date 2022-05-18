@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <body>
+            <style type="text/css">
+               
+            </style>
+            <link rel="stylesheet" type="text/css" href="css/stylee.css">
+            <nav><a href="pages/indexx.html">Home</a></nav>
+            <h1>Interesting Facts</h1>
+           <ul>
+               <li>I'm from New York</li>
+               <li> I moved to Atlanta when I was 18</li>
+               <li>I've travelled to at least 10 countries so far</li>
+           </ul>
+           <div id="div1">
+            <h2>Favorite Foods</h2>
+            <p>I love Thai and Italian food</p>
+        </div>
+        <div id="div2">
+            <h3>Favorite places to go in ATL</h3>
+            <p>I love going to the mall, to new restaurants, and trying new lounges!</p>
+        </div>
+        <div id="div3">
+            <style type="text/css">
+                
+            </style>
+            <form>
+                <h4>Friendship Form</h4>
+                First Name: <br>
+                <input type="text" name="firstname"> <br>
+                Last Name: <br>
+                <input type="text" name="lastname"> <br>
+                Pronouns <br>
+                <input type="radio" name="pronouns" value="she/her">
+                        she/her <br>
+                <input type="radio" name="pronouns" value="he/him">
+                        he/him <br>
+                <input type="radio" name="pronouns" value="they/them">
+                        they/them <br>
+                <input type="button" name="submit" value="submit">
+            </form>
+        </div>
+        </body>
+    </head>
+</html>
